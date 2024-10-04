@@ -1,0 +1,83 @@
+form {
+    text-align: left;
+}
+
+fieldset {
+    width: 300px;
+    
+    margin: auto;
+    text-align: left;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+   
+    text-align: right;
+    margin-right: 10px;
+    
+}
+
+input,
+select {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+   
+}
+
+center {
+    text-align: center;
+}
+
+label {
+    text-align: center;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    color: black
+}
+
+
+body {
+    background-image: url(Images/wallpapersden.com_purple-sunrise-4k-vaporwave_1920x1080.jpg);
+    background: size 10px;
+
+
+}
+
+fieldset {
+    margin-left: 21cm;
+    margin-right: 20cm;
+    margin-top: 120px;
+    text-align: center;
+}
+
+button {
+    padding-top: 30px;
+    background-image: url(Images/73217083.jpg);
+    background-size: center;
+    text-align: center;
+
+    color: white;
+}
+
+#c {
+    color: black;
+}
+
+.d {
+    color: black;
+    font-style: italic;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input[type="radio"] {
+    display: inline-block;
+}
+
+input[type="button"] {
+    color: black;
+    background-color: purple;
+}

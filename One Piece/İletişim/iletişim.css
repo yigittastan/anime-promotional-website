@@ -1,0 +1,191 @@
+td {
+    text-align: center;
+}
+
+table {
+    background: rgb(196, 191, 35);
+    background: linear-gradient(90deg, rgba(210, 30, 157, 1) 0%, rgba(32, 212, 214, 1) 50%, rgba(196, 191, 35, 1) 100%);
+    border-radius: 50px;
+    color: black;
+    border-color: white;
+}
+
+
+.demongiriş{
+    display: block;
+    margin: 100px; 
+    margin-top: 20px; 
+    max-width: 500px;  
+    max-height: 500px; 
+    border-radius: 80px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: rgb(196,191,35);
+background: linear-gradient(90deg, rgba(196,191,35,1) 0%, rgba(32,212,214,1) 50%, rgba(210,30,157,1) 100%);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: purple;
+    padding: 10px;
+    color: white;
+}
+
+#logo-text {
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+
+.lightbulb {
+    margin-top: 50px;
+    max-width: 80px;
+    margin-left: 60px;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.button:hover {
+    background-color: #1865b3;
+    border-radius: 80px;
+}
+
+.content-section {
+    display: flex;
+    gap: 20px;
+    background-color: purple;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+
+.content-item a {
+    color: gold;
+    text-decoration: none;
+}
+
+.content-item a:hover {
+    text-decoration: underline;
+}
+.button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    border-radius: 80px;
+}
+footer {
+    background: linear-gradient(90deg, rgba(210, 30, 157, 1) 0%, rgba(32, 212, 214, 1) 50%, rgba(196, 191, 35, 1) 100%);
+    color: #df6767;
+    padding: 20px;
+    text-align: center;
+    
+    position: relative; 
+    margin-top: auto;  
+    width: 100%;
+}
+
+
+
+a {
+    color: #df6767;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+form {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto; 
+}
+
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+.swq{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin-right: 20px; 
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.posta-adresi {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    background: rgb(196, 191, 35);
+    background: linear-gradient(90deg, rgba(210, 30, 157, 1) 0%, rgba(32, 212, 214, 1) 50%, rgba(196, 191, 35, 1) 100%);
+    
+    color: black;
+    border-color: white;
+    width: 100%;
+}
+
+tr {
+    display: flex;
+    justify-content: space-around;
+}
+
+.table-content {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+   margin: 10px;
+}

@@ -1,0 +1,133 @@
+.container {
+    display: flex;
+}
+
+.ao,
+.ad,
+.an {
+    flex: 1;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ao {
+    background-image: url('Images/One\ Piece.jpg');
+}
+
+.ad {
+    background-image: url('Images/desktop-wallpaper-red-on-dog-red-and-black-pc.jpg');
+}
+
+.an {
+    background-image: url('Images/Black\ Clover.jpg');
+}
+
+button {
+    background: none;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    height: 300px;
+    width: 614px;
+}
+
+body {
+    display: inline;
+    background-image: url(Images/line-spectrum-rgb-hjaswpq13xdovb9i.jpg);
+
+}
+
+.ao,
+.ad,
+.an {
+    margin: 10px;
+}
+
+button {
+    display: inline-block;
+    padding: 10px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.a {
+    padding-left: 0px;
+    padding-right: 34cm;
+}
+
+.b {
+    padding-left: 17cm;
+    padding-right: 17cm;
+}
+
+.c {
+    padding-left: 34cm;
+    padding-right: 0px;
+}
+
+.a,
+.b,
+.c {
+    display: inline-block;
+}
+ 
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  footer {
+    background: linear-gradient(90deg, rgba(210, 30, 157, 1) 0%, rgba(32, 212, 214, 1) 50%, rgba(196, 191, 35, 1) 100%);
+    color: #df6767;
+    padding: 20px;
+    text-align: center;
+    
+    position: relative; 
+    margin-top: auto;  
+    width: 100%;
+}
+
+
+a {
+    color: #df6767;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+  html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+.intro-section {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.social-icons {
+    margin-top: 10px;
+}

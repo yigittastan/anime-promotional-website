@@ -1,0 +1,29 @@
+label {
+    text-align: center;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    color: white
+}
+
+
+body {
+    background-image: url(Images/steamuserimages-a.akamaihd.jpg);
+    background: size 10px;
+    ;
+}
+
+fieldset {
+    margin-left:21cm;
+    margin-right: 20cm;
+    margin-top: 370px;
+}
+
+button{
+    padding-top: 30px;
+background-image: url(Images/73217083.jpg);
+background-size: center;
+text-align: center;
+
+color: white;
+}
